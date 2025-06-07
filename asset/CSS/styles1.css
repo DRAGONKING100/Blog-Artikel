@@ -20,6 +20,10 @@ h1 {
   font-family: 'Anton', sans-serif;
 }
 
+h5{
+  font-size: 25px;
+}
+
 h2, h3, h4, h5, h6 {
   font-family: 'Raleway', sans-serif;
 }
@@ -97,6 +101,12 @@ hr {
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
   align-items: center;
+}
+
+.Vehicle{
+  font-size: 25px;
+  list-style-type: none;
+  font-family: "Raleway", sans-serif;
 }
 
 .first-paragraph::first-letter {
